@@ -1,0 +1,11 @@
+{
+  "name": "familytree",
+  "version": "1.0.0",
+  "description": "App for building and accessing family data. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Bradford",
+  "license": "ISC"
+}
