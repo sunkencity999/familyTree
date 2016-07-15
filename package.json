@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Christopher Bradford",
+  "gitrepository": "https://github.com/sunkencity999/familyTree",
   "license": "ISC"
 }
